@@ -164,14 +164,13 @@ Push to main
      ▼
 [4] CloudWatch monitors health
 ```
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/952ccbcc-9075-4391-9cf1-5506f3eaea6e" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ce98f1fd-3807-4cbb-a4e6-2aa936481a19" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fb8d9d2b-8048-4cd5-93be-4e497943fd8a" />
+
 
 ---
 
-## 📄 License
-MIT
 
-https://chatgpt.com/backend-api/estuary/content?id=file_00000000e40071fa8a03183794cc7b64&ts=494405&p=fs&cid=1&sig=542615d0ec6cce40a2b1c0a4bb699c93cd37b878aa94166219a7ca6ff837202d&v=0
-
-
-
-https://chatgpt.com/backend-api/estuary/content?id=file_00000000e40071fa8a03183794cc7b64&ts=494405&p=fs&cid=1&sig=542615d0ec6cce40a2b1c0a4bb699c93cd37b878aa94166219a7ca6ff837202d&v=0
