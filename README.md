@@ -164,11 +164,18 @@ Push to main
      ▼
 [4] CloudWatch monitors health
 ```
-## Screenshots
+## 📸 Screenshots
 
+### Login Page
 ![Login Page](images/screenshot-login.png)
+
+### Dashboard — Kanban Board
 ![Dashboard](images/screenshot-dashboard.png)
-![Architecture](images/architecture.png)
+
+### Architecture Diagram
+![Architecture Diagram](images/architecture.png)
+
+### CI/CD Pipeline
 ![CI/CD Pipeline](images/cicd-pipeline.png)
 
 ---
