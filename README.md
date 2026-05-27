@@ -164,12 +164,12 @@ Push to main
      ▼
 [4] CloudWatch monitors health
 ```
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/952ccbcc-9075-4391-9cf1-5506f3eaea6e" />
+## Screenshots
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ce98f1fd-3807-4cbb-a4e6-2aa936481a19" />
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fb8d9d2b-8048-4cd5-93be-4e497943fd8a" />
-
+![Login Page](images/screenshot-login.png)
+![Dashboard](images/screenshot-dashboard.png)
+![Architecture](images/architecture.png)
+![CI/CD Pipeline](images/cicd-pipeline.png)
 
 ---
 
